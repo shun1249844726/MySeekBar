@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewCustomSeekBar_csSrcBtn">
+        <attr name="InnerCircle_radius" format="dimension" />
+        <attr name="ExCircle_radius" format="dimension" />
+        <attr name="SmartCircle_radius" format="dimension"/>
+        <attr name="TextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
